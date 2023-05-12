@@ -1,0 +1,15 @@
+
+{
+  "checking_period_seconds": 5,
+  "log_filename": "website_logs.txt",
+  "websites": [
+    {
+      "url": "https://yle.fi",
+      "content": "Luetuimmat"
+    },
+    {
+      "url": "https://hs.fi",
+      "content": "Unfound content"
+    }
+  ]
+}
